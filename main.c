@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : quick.cpp
-// Author      :
+// Name        : quick.c
+// Author      : om purwar
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Quick Sort in C++ 
+// Description : Quick Sort in C
 //============================================================================
 
 #include <stdio.h>

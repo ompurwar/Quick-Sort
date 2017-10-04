@@ -1,2 +1,2 @@
 # Quick-Sort
-Quick Sort Implementation in C++
+Quick Sort Implementation in C
